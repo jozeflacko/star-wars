@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background:white;
+  font-family: monospace;
+}
+h1.main {
+  color:#d2222;
+  font-weight:bold;
+  font-size:30px;
+}

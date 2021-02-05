@@ -1,0 +1,22 @@
+
+.datail-component .button {
+    border:1px solid #777;
+    border-radius:4px;
+    padding:8px;
+    display:inline-block;
+    text-decoration:none;
+    background:#DDD;
+    color:black;
+    position:fixed;
+    right:5px;
+    top:55px;
+}
+.datail-component .button.hidden {
+    display:none;
+}
+.datail-component  .bg {
+    position:fixed;
+    bottom:0px;
+    right:0px;
+    opacity: .1;
+}

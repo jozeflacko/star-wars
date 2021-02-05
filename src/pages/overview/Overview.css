@@ -1,0 +1,12 @@
+.overview-container .button {
+    border:1px solid #DDD;
+    padding:8px;
+    margin-top:20px;
+    background:rgb(132, 197, 228);
+    border-radius:4px;
+    cursor:pointer;
+    display:inline-block;
+}
+.overview-container .button:hover {
+    background:#DDD;
+}
